@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{# Name: Marquise Piton}
 
 <br>
 
-{% include 02-image.md %}
+{% Husky %}
 
 <br>
 
-{% include 03-links.md %}
+{https://www.linkedin.com/in/marquisepiton/%}
 
